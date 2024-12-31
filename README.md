@@ -2,8 +2,7 @@
 
 ### 🔧 Languages Used:
 <div>
-  <img src="![png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark](https://github.com/user-attachments/assets/5971ff35-042e-42bc-bb89-d9ab1d9ca55b)
-" alt="HTML Logo">
+  <img src="https://github.com/user-attachments/assets/5971ff35-042e-42bc-bb89-d9ab1d9ca55b" alt="HTML Logo">
 </div>
 
 ---
