@@ -1,12 +1,9 @@
-# Creating a text file with the project description and content
-project_description = """
 # 📄 Project: Expanding Cards
 
 ### 🔧 Languages Used:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="35" style="vertical-align: middle; margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="35" style="vertical-align: middle;">
+  <img src="![png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark](https://github.com/user-attachments/assets/5971ff35-042e-42bc-bb89-d9ab1d9ca55b)
+" alt="HTML Logo">
 </div>
 
 ---
