@@ -33,4 +33,11 @@ This project features **expandable cards** with smooth animations, designed with
 ### 🛠️ How to Run:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AnReXx2/Expanding-Cards
+    git clone https://github.com/AnReXx2/Expanding-Cards
+
+    Navigate to the project folder:
+    cd Expanding-Cards
+
+    Open the index.html file in your preferred browser:
+
+    open index.html
